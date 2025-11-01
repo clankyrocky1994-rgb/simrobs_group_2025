@@ -5,8 +5,6 @@
    
 $a \cdot \ddot{x} + b \cdot \dot{x} + c \cdot x = d$
 
-Euler's formula is $e^{i\pi} + 1 = 0$.
-
 6. From the list take coefficients of your ODE and solve them with three integrators: Explicit/Implicit Euler, Rung-Kutta methods.
-7. Compare performance of these methods, dicsuss and conclude your thoughts in the .pdf report.
+7. Compare results of these methods with analytical solution, dicsuss and conclude your thoughts in the .pdf report.
 8. Name of the report should be "ISU_YourName_task1.pdf"
