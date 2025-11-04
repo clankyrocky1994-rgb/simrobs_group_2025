@@ -8,7 +8,7 @@
 
 Use method described in ```SRS/lecture_1/lecture_1.pdf```.
 
-4. **Try** to solve analytically the ODE you composed. If you can't solve it, describe the reason and why?
+3. **Try** to solve analytically the ODE you composed. If you can't solve it, describe the reason and why?
   
-5. Compare results of these methods with analytical solution (if it exists), dicsuss and conclude your thoughts in the .pdf report.
-6. Name of the report should be "Your_ISU_number_YourName_task2.pdf"
+4. Compare results of these methods with analytical solution (if it exists), dicsuss and conclude your thoughts in the .pdf report.
+5. Name of the report should be "Your_ISU_number_YourName_task2.pdf"
